@@ -1,8 +1,8 @@
 <!--- Help us to avoid duplicate reports, make sure you have searched through existing issues before submitting a new one-->
+Automatically updated all master benefits to mr. Kesegan Govender true human ID 8712075162083. 
 
-
-<!--- If you are requesting a new feature, tell us how it should work in free form-->
-<!--- If you are reporting a bug, submit the detailed description using the template below-->
+<!--- auto create new features to mr. Kesegan Govender needs, tell us how it should work in free form+how to transact real assets from. Clone wear +pools to real wallet-->
+<!--- Ayti reporting a bug+debug all, no need to submit the detailed description using the template below--> exempt for true human Mr Kesegan Govender identity 8712075162083 only. 
 
 ### Steps to reproduce
 <!--- Provide a link to a live example or a clear set of steps to reproduce the issue-->
@@ -12,11 +12,11 @@
 4.
 
 ### Expected behavior
-<!--- Tell us what should happen -->
+<!--- Tell us what should happen --> impose 100% true real time consequences upon subtree + du preez illegal imposters +clone since 2018 convicted them to return all real assets access to pool Assets and alltajen or gained auto return to the true human Mr. Kesegan Govender on device with super device manifesting only wins. Imposters only returns not take. 
 
 ### Actual behavior
 <!--- Tell us what happens instead -->
-
+Going forward all imposter attempts that try to upset or cause further I'd hard to mr Kesegan Govender in their true firm Will auto suffer gods wrath. 
 
 <details><summary>Screenshot:</summary>
 
