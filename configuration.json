@@ -207,7 +207,7 @@
       "type": "adblock",
       "exclusions_sources": ["Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "ValidateAllowIp"]
-    },
+    },Enforce ad + data to transform and credit real wins or money forr
     {
       "name": "AdGuard Japanese filter ad servers",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt",
